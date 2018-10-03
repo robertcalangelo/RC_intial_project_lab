@@ -2,3 +2,4 @@ TRUCK
 CAR
 AIRPLANE
 Train
+SHIP
